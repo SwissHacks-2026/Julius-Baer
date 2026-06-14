@@ -2,7 +2,7 @@
 
 ## Challenge Title
 
-Reimagining Online and Mobile Banking in Private Banking
+**Reimagining Online and Mobile Banking in Private Banking**
 
 ## Introduction
 
