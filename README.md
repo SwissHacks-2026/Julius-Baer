@@ -47,7 +47,7 @@ No specific stack is required. Participants are free to use any tech stack or ha
 
 ## Challenge Slides
 
-[Add link to the challenge introduction slides.]
+(https://github.com/SwissHacks-2026/Julius-Baer/blob/main/SwissHacks%20Presentation_Julius%20Baer.pdf)
 
 ## Resources & Further Information
 
