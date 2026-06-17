@@ -75,11 +75,9 @@ Certain industry guardrails are out of scope and should be treated as fixed (for
 
 Kiat - weekiat.goh@juliusbaer.com
 
-[Add name(s) of point(s) of contact.]
-
 ### Availability
 
-[Add availability during the event, for example agenda if in person, or email/contact details if remote support is available throughout the weekend.]
+
 
 ## Prize
 
