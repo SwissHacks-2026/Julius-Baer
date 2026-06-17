@@ -73,7 +73,7 @@ Certain industry guardrails are out of scope and should be treated as fixed (for
 
 ## Point of Contact
 
-### Contact Person(s)
+Kiat - weekiat.goh@juliusbaer.com
 
 [Add name(s) of point(s) of contact.]
 
