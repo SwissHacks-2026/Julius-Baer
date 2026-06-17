@@ -74,8 +74,7 @@ Certain industry guardrails are out of scope and should be treated as fixed (for
 ## Point of Contact
 
 Kiat - weekiat.goh@juliusbaer.com
-
-### Availability
+Eleonora - eleonora.depaoli@juliusbaer.ocm
 
 
 
