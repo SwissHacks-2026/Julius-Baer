@@ -73,10 +73,10 @@ Certain industry guardrails are out of scope and should be treated as fixed (for
 
 ## Point of Contact
 
-Kiat - weekiat.goh@juliusbaer.com
-Eleonora - eleonora.depaoli@juliusbaer.ocm
-
-
+| Name | Contact |
+| --- | --- |
+| Wee Kiat Goh | weekiat.goh@juliusbaer.com |
+| Eleonora De Paoli | eleonora.depaoli@juliusbaer.com |
 
 ## Prize
 
