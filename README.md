@@ -51,9 +51,8 @@ No specific stack is required. Participants are free to use any tech stack or ha
 
 ## Resources & Further Information
 
-### Relevant Links
+<img width="605" height="839" alt="IMG_2521" src="https://github.com/user-attachments/assets/ddb5cd43-7cbb-4929-a0a1-3275154fa7c3" />
 
-[Add relevant links here.]
 
 ### Additional Information
 
